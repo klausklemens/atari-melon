@@ -1,0 +1,7 @@
+[package]
+name = "atari_melon"
+version = "0.1.0"
+authors = ["vincent"]
+edition = "2018"
+
+[dependencies]
